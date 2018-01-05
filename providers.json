@@ -1,0 +1,31 @@
+{
+  "bluemix": {
+    "api_host": "",
+    "api_key": "",
+    "org": "",
+    "space": ""
+  },
+  "pipeline": [
+    {
+      "channel": {
+        "facebook": {
+          "app_secret": "456d1ae168668cab275a81a29e80bd05",
+          "page_access_token": "EAAHNZBd3edwkBAHnImIDQjZBf959OyV3nMnQZBsA5xxciMMaZCgdrvdPLSIrlrPX6klnkttfhxbTBF1XknuyPYpP96Q40PX7695Hq76e1MZCc4HElmb2pHZCor1A6ZACa3m3VnqqghNYECup0AGNHqG1ZAel4ioqfl8MM0gSasZAGFwZDZD",
+          "verification_token": "flobotics"
+        },
+        "name": "Flobot",
+        "Flobot": {
+          "client_id": "xxxx",
+          "client_secret": "xxxx",
+          "verification_token": "xxxx"
+        }
+      },
+      "conversation": {
+        "username": "4b5325b9-3567-4d59-a850-baf3168076fd",
+        "password": "xfN7twVihxPj",
+        "workspace_id": "79fb9c2c-bfc9-487a-b391-37cc7334a4a3"
+      },
+      "name": "xxxx"
+    }
+  ]
+}
